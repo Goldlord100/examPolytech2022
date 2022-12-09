@@ -1,0 +1,24 @@
+Question 16)
+Docker est une plate-forme logicielle qui permet de déployer des logiciels dans des conteneurs.
+Il permet de déployer des logiciels dans des environnements (les conteneurs) qui possèdent déjà les bonnes bibliothèques pour l'exécution.
+C'est par ailleurs une solution open source, économique et sécurisée.
+
+Question 17)
+Le Continuous Deployement (CD) et le Continuous Integration (CI) sont des méthodes ou procédés de développement.
+Le CD a pour principe d'automatiser la mise en production. Il s'occupe donc de build, tester et mettre en production de
+manière automatique les changements apportés à un logiciel.
+Le CI, au contraire, est un procédé qui inclut l'humain car il intervient au niveau de la mise en production.
+En effet, même si la partie du build et du test est en général automatique,
+la mise en production est vérifiée et l'humain intervient pour corriger le plus rapidement possible les erreurs d'intégration.
+
+Question 18)
+Je n'ai pas été là pendant une partie du cours malheureusement, alors je ne peux que me baser sur ce que j'ai pu voir.
+Pendant les deux premières séances, le cours était structuré et la maîtrise de Docker permet de vraiment avancer et de débugger les différents étudiants.
+Cela a permit à tout le monde d'avancer en même temps et au même rythme.
+Pour la toute dernière partie, c'est dommage qu'on ait pas eu plus de temps pour le faire car il manque
+
+Commentaire :
+L'application Docker Desktop a planté après la question 10, par manque de place,
+j'ai donc fait la partie front à l'aveugle ainsi que les healthcheck, et je n'ai pas pu tester ces parties,
+ni l'envoyer à la toute fin (donc j'ai dû passer des questions 11 à 15 sauf la 12).
+
